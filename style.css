@@ -1,5 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Krub&display=swap');
 body{
-    background-color: oldlace;
+    background-color:#f7c296;
     font-family: 'Krub', sans-serif;
+}
+div{
+    color: rgb(255, 0, 119); 
+}
+.bg-color-gold{
+    background-color: rgb(102, 57, 207);
+}
+.bg-color-red{
+    background-color: rgb(0, 238, 255);
+}
+div{
+    color:#000000 ; 
+}
+.border-1-radius-5{
+    background-color:#ed710a;
+    color:#cda833 ; 
+    border : 1px solid#ededed;
+    border-radius:  5px;
+    margin : 2px ;
+    padding: 10px;
 }
